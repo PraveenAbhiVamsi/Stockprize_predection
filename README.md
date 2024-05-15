@@ -44,7 +44,7 @@ The results of the stock price prediction are displayed visually through plots c
 
 ## Acknowledgments
 
-Special thanks to [**Leela**]([https://github.com/leela](https://github.com/LEELAPRIYA)) for their valuable contributions and partnership in this project. Their insights and efforts have significantly enriched the development process and outcomes.
+Special thanks to [**Leela**] ([https://github.com/leela](https://github.com/LEELAPRIYA)) for their valuable contributions and partnership in this project. Their insights and efforts have significantly enriched the development process and outcomes.
 
 ## Contributing
 Contributions to this project are welcome. Feel free to open issues or submit pull requests with improvements, bug fixes, or additional features.
